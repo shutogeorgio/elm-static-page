@@ -1,6 +1,6 @@
 ## elm-static-site
+based on elm-page-starter
 
-based on elm-poage-starter
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/dillonkearns/elm-pages-starter)
 
 This is an example repo to get you up and running with `elm-pages`.
